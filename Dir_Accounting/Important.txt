@@ -1,0 +1,11 @@
+Please Read :
+1.First, install the font for the program in the font folder >>>> Path : ./Font
+2.Add the application database files to your sqlserver application >>>> Path :./DataBase
+3.The default username and password of the program:
+user name : ali
+Password: 12345
+
+Ways to contact me 'AliMahmoudi'
+instagram : memphis_hector
+web : alimahmoudi.ir
+telegram : @hi_develop
